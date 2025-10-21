@@ -1,0 +1,7 @@
+.venv
+*.h5
+history_mnist.json
+.env
+__pycache__/
+*.pyc
+*.png
